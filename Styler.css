@@ -1,0 +1,26 @@
+html, body{
+    background-color:#F9E3DE;
+    font-family: sans-serif;
+}
+
+.GeekName{
+    border-color: black;
+    border-top: 2px;
+    color:sienna;
+    position:relative;
+    left:50px;
+    font-family:fantasy;
+}
+
+img{
+    border-radius:50%;
+}
+
+.table, .thead, .tbody, .row1{
+    border: 3px solid #D2691E;
+    border-collapse: collapse;
+}
+
+.border2{
+    border: 2px solid #BDB76B;
+}
