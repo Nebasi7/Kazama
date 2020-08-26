@@ -24,3 +24,8 @@ img{
 .border2{
     border: 2px solid #BDB76B;
 }
+
+hr{
+    border: 2px solid;
+    color: red;
+}
